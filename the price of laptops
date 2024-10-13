@@ -1,4 +1,4 @@
-n = int(input())
+s'n = int(input())
 
 prices = []
 values = []
@@ -30,6 +30,6 @@ for i in prices:
 
             
 if result == True:
-    print("happy name")
+    print("happy users' name")
 else:
-    print("poor name")
+    print("poor users' name")
