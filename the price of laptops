@@ -32,4 +32,4 @@ for i in prices:
 if result == True:
     print("happy users' name")
 else:
-    print("poor users' name")
+    print("poor users'name")
